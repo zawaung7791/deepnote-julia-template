@@ -1,6 +1,6 @@
-# Deepnote-Julia-template
+# Deepnote-Julia-template   
 
-Julia Template files for [DeepNote](https://deepnote.com/)
+Julia Template files for [DeepNote](https://deepnote.com/)   
 
 1. Start a new project in Deepnote
 2. Upload the files from this repository into the "Files" section
